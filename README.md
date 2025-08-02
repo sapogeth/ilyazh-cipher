@@ -87,10 +87,10 @@ Includes:
 - Limitations, attack vectors, and further directions
 
 Author:
-Ilyas Zhaisenbayev
-18 y.o. researcher in applied cryptography and secure communication systems
-Founder of Stvor, a next-gen privacy-first messenger
-Kazakhstan | Malaysia
+- Ilyas Zhaisenbayev
+- 18 y.o. researcher in applied cryptography and secure communication systems
+- Founder of Stvor, a next-gen privacy-first messenger
+- Kazakhstan | Malaysia
 
 Future Directions:
 - Formal cryptanalysis (differential/linear)
@@ -100,8 +100,9 @@ Future Directions:
 - zkLogin + wallet-level identity encryption
 
 License:
-MIT License — use and study freely. Contributions welcome.
+- MIT License — use and study freely. Contributions welcome.
 
 For Professors & Researchers:
+
 This project is designed to start academic conversations.
 If you are a researcher or professor interested in this cipher’s structure or potential, I welcome all critiques, suggestions, and collaboration opportunities.
