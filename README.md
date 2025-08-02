@@ -53,6 +53,7 @@ This project is part of a broader initiative to implement secure messaging proto
 
 ## 📚 Usage
 
+"""
 python
 from ilyazh_cipher import encrypt, decrypt
 
@@ -64,6 +65,7 @@ decrypted = decrypt(ciphertext, key)
 
 print("Encrypted:", ciphertext)
 print("Decrypted:", decrypted)
+"""
 
 | Original Input  | Modified Input  | Ciphertext Diff (%) |
 | --------------- | --------------- | ------------------- |
