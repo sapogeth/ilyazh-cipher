@@ -32,7 +32,7 @@ This project is part of a broader initiative to implement secure messaging proto
 | Component              | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
 | **Block Size**         | 12 characters fixed                                                         |
-| **Alphabet**           | 85-character custom set: `[a-zA-Z0-9!@#$%^&*()_+-=[]{}|;:,.<>?~\`]`         |
+| **Alphabet**           | 91-character custom set: `[a-zA-Z0-9!@#$%^&*()_+-=[]{}|;:,.<>?~\`]`         |
 | **Chained Encryption** | Each block's output is hashed and linked to the next block via XOR chaining |
 | **Hash Function**      | Custom SHA-like rolling hash (no libraries used)                            |
 | **Key Expansion**      | Deterministic, context-aware, block-specific subkey derivation              |
