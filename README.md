@@ -23,7 +23,7 @@ However, the purpose of **Ilyazh-Classic** is to:
 - **Explore core ideas of cryptography**: key scheduling, block transformation, avalanche effect, entropy.
 - **Evaluate the feasibility** of designing a secure, human-readable encryption scheme.
 
-This project is part of a broader initiative to implement secure messaging protocols (e.g. [Stvor Messenger](https://github.com/sapogeth/Stvor) on top of original cryptographic designs.
+This project is part of a broader initiative to implement secure messaging protocols (e.g. [Stvor Messenger](https://github.com/sapogeth/Stvor)) on top of original cryptographic designs.
 
 ---
 
